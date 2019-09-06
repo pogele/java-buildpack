@@ -16,4 +16,5 @@
   -->
 
 <Context>
+  <CookieProcessor className="org.apache.tomcat.util.http.LegacyCookieProcessor"/>
 </Context>
